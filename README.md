@@ -1,29 +1,271 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center">♡ Namaskar, I'm Sudeep Mishra</h1>
-<h3 align="center">Just passing through, hoping to leave a gentle trace...</h3>
-<div> <a href="https://github.com/Sudeepp-Mishra" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="CPP" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-original.svg" alt="Java" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40"/>
-<img src="https://dl.dropboxusercontent.com/s/6e7hk06wzjp3j52/Matlab_Logo.png" alt="MatLab" width="40" height="40"/>
-</p>
+# 💻 Welcome to My Terminal
 
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudeepp-Mishra&layout=compact&theme=transparent" alt=Sudeepp-Mishra />
+```bash
+┌──(visitor㉿github)-[~/profile]
+└─$ whoami
+user@github:~$ Loading profile...
+```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
-<a href="https://github.com/Sudeepp-Mishra">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sudeepp-Mishra&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sudeepp-Mishra&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sudeepp-Mishra&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sudeepp-Mishra&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sudeepp-Mishra&theme=2077" height="180em" />
+
+```ascii
+╔══════════════════════════════════════════════════════════════╗
+║                    🚀 TERMINAL INTERFACE v2.1                ║
+║                                                              ║
+║  Welcome to my digital workspace! Type commands to explore  ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
 </div>
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+## 🖥️ Available Commands
+
+```bash
+user@github:~$ help
+Available commands:
+├── about          # Personal information & bio
+├── skills         # Technical skills & proficiencies  
+├── projects       # Featured repositories & work
+├── experience     # Professional background
+├── contact        # Ways to reach me
+├── stats          # GitHub statistics & activity
+├── setup          # My development environment
+└── coffee         # Because we all need coffee ☕
+```
+
+---
+
+### 📋 `user@github:~$ about`
+
+```bash
+Loading personal information...
+████████████████████████████████████████ 100%
+
+Name:           [Your Name]
+Role:           Full Stack Developer | Software Engineer
+Location:       [Your Location] 🌍
+Languages:      English, [Other Languages]
+Interests:      Code, Coffee, Open Source, [Your Interests]
+Currently:      Building awesome projects & learning new tech
+Fun Fact:       [Add something interesting about yourself]
+
+Status:         Available for collaboration 🟢
+```
+
+---
+
+### 🛠️ `user@github:~$ skills --list`
+
+```bash
+Scanning installed packages...
+
+📱 Frontend:
+├── JavaScript/TypeScript  ████████████████████ 90%
+├── React/Next.js         ████████████████████ 85%
+├── Vue.js                ███████████████░░░░░ 75%
+├── HTML5/CSS3            ████████████████████ 95%
+└── Tailwind CSS          ████████████████████ 80%
+
+⚙️ Backend:
+├── Node.js               ████████████████████ 85%
+├── Python                ███████████████░░░░░ 75%
+├── Express.js            ████████████████████ 80%
+├── MongoDB/PostgreSQL    ███████████████░░░░░ 70%
+└── REST/GraphQL APIs     ████████████████████ 85%
+
+🔧 Tools & Others:
+├── Git/GitHub            ████████████████████ 90%
+├── Docker                ██████████████░░░░░░ 70%
+├── AWS/Cloud Services    ████████████░░░░░░░░ 60%
+├── Linux/Terminal        ████████████████████ 85%
+└── VS Code               ████████████████████ 95%
+```
+
+---
+
+### 💼 `user@github:~$ experience --timeline`
+
+```bash
+Loading career timeline...
+
+2024 - Present    🏢 [Current Company/Role]
+                  └── [Brief description of current role]
+
+2023 - 2024      🎓 [Previous Experience/Education]
+                  └── [Brief description]
+
+2022 - 2023      🚀 [Another Experience]
+                  └── [Brief description]
+
+For detailed experience: curl -X GET /resume
+```
+
+---
+
+### 🚀 `user@github:~$ projects --featured`
+
+```bash
+Fetching repository data...
+
+📁 Featured Repositories:
+┌─────────────────────────────────────────────────────────────┐
+│ [Project Name 1]                                    ⭐ [Stars] │
+│ └── [Brief project description]                              │
+│ └── Tech: [Technologies used]                               │
+│                                                             │
+│ [Project Name 2]                                    ⭐ [Stars] │
+│ └── [Brief project description]                              │
+│ └── Tech: [Technologies used]                               │
+│                                                             │
+│ [Project Name 3]                                    ⭐ [Stars] │
+│ └── [Brief project description]                              │
+│ └── Tech: [Technologies used]                               │
+└─────────────────────────────────────────────────────────────┘
+
+Run 'git clone <repo_url>' to explore the code!
+```
+
+---
+
+### 📊 `user@github:~$ stats --github`
+
+```bash
+Generating GitHub statistics...
+
+┌─ GitHub Stats ────────────────────────────────────────────┐
+│                                                           │
+```
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F85D7F&text_color=C9D1D9)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=F85D7F&fire=F85D7F&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=C9D1D9)
+
+</div>
+
+```bash
+└───────────────────────────────────────────────────────────┘
+
+💡 Contribution activity: Check out my contribution graph!
+🔥 Current streak: [X] days
+📈 Total contributions: [X] contributions in the last year
+```
+
+---
+
+### 🔧 `user@github:~$ setup --dev-environment`
+
+```bash
+Displaying development setup...
+
+💻 Hardware:
+├── OS: [Your OS, e.g., Ubuntu 22.04 LTS / macOS Monterey]
+├── CPU: [Your CPU]
+├── RAM: [Your RAM]
+└── Storage: [Your Storage]
+
+🛠️ Software:
+├── Terminal: [Zsh with Oh My Zsh / Fish / Bash]
+├── Editor: VS Code with [Your favorite extensions]
+├── Browser: [Your preferred browser]
+└── Design: [Figma / Adobe XD / etc.]
+
+⚡ Productivity:
+├── Window Manager: [If applicable]
+├── Package Manager: [npm, yarn, pip, etc.]
+└── Version Control: Git with GitHub CLI
+```
+
+---
+
+### 📞 `user@github:~$ contact --info`
+
+```bash
+Establishing connection protocols...
+
+📧 Email:     [your.email@example.com]
+💼 LinkedIn:  [linkedin.com/in/yourprofile]
+🐦 Twitter:   [@yourusername]
+🌐 Website:   [yourwebsite.com]
+💬 Discord:   [YourUsername#1234]
+
+┌─ Quick Connect ─────────────────────────────────────────────┐
+│ $ curl -X POST https://yourwebsite.com/contact             │
+│ $ echo "Let's build something amazing together!" 🚀        │
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+### ☕ `user@github:~$ coffee --status`
+
+```bash
+Checking coffee levels...
+
+Current Status: ████████████████████████████████████████ 100%
+                ☕ FULLY CAFFEINATED & READY TO CODE!
+
+Coffee Stats:
+├── Cups today: [X]
+├── Favorite: [Your favorite coffee]
+├── Coding fuel: ✅ ACTIVE
+└── Next refill: In [X] minutes
+
+Error 418: I'm a teapot... just kidding, I'm a coffee person! ☕
+```
+
+---
+
+<div align="center">
+
+## 🏆 Achievements & Badges
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square&label=Profile+Views)
+
+[![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=social)](https://github.com/YOUR_USERNAME)
+[![GitHub User's stars](https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER%2CCOLLABORATOR&style=social&label=Total%20Stars)](https://github.com/YOUR_USERNAME)
+
+### 🔥 Current Streak
+[![GitHub Streak](https://img.shields.io/badge/Code%20Streak-X%20days-orange?style=flat-square&logo=github)](https://github.com/YOUR_USERNAME)
+
+### 💻 Languages & Tools
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+```bash
+user@github:~$ echo "Thanks for visiting my profile! 🚀"
+user@github:~$ exit
+
+Session ended. Come back anytime!
+```
+
+<div align="center">
+
+**⭐ If you found this profile interesting, consider starring my repositories!**
+
+```bash
+git clone https://github.com/YOUR_USERNAME
+cd YOUR_USERNAME
+npm install friendship
+```
+
+</div>
+
+---
+
+<sub>💡 **Pro tip:** This README is also a repository! Check out the code behind this terminal interface.</sub>
