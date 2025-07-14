@@ -1,5 +1,4 @@
 <img src="https://raw.githubusercontent.com/Sudeepp-Mishra/Sudeepp-Mishra/main/assets/pattern-waves-overlap.svg" width="100%" />
-<br />
 <h1 align="center">✨Namaskar✨</h1>
 <br />
 <h3 align="center">Just passing through, hoping to leave a gentle trace...</h3>
