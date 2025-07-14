@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Sudeepp-Mishra/Sudeepp-Mishra/main/assets/line-star.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/Sudeepp-Mishra/Sudeepp-Mishra/main/assets/header.svg" width="100%" />
 <br />
 <h1 align="center">✨Namaskar✨</h1>
 <br />
@@ -29,4 +29,4 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sudeepp-Mishra&theme=2077" height="180em" />
 </div>
 
-<img src="https://raw.githubusercontent.com/Sudeepp-Mishra/Sudeepp-Mishra/main/assets/line-star.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/Sudeepp-Mishra/Sudeepp-Mishra/main/assets/footer.svg" width="100%" />
