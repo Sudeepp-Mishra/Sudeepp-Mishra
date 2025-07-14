@@ -1,4 +1,4 @@
-<<img src="https://raw.githubusercontent.com/Sudeepp-Mishra/Sudeepp-Mishra/main/assets/pattern-ovals-and-diamonds.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/Sudeepp-Mishra/Sudeepp-Mishra/main/assets/five-stars-depth.svg" width="100%" />
 <h1 align="center">✨Namaskar✨</h1>
 <h3 align="center">Just passing through, hoping to leave a gentle trace...</h3>
 <div> <a href="https://github.com/Sudeepp-Mishra" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
@@ -26,4 +26,4 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sudeepp-Mishra&theme=2077" height="180em" />
 </div>
 
-<<img src="https://raw.githubusercontent.com/Sudeepp-Mishra/Sudeepp-Mishra/main/assets/pattern-ovals-and-diamonds.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/Sudeepp-Mishra/Sudeepp-Mishra/main/assets/five-stars-depth.svg" width="100%" />
