@@ -1,31 +1,97 @@
-<img src="https://raw.githubusercontent.com/Sudeepp-Mishra/Sudeepp-Mishra/main/assets/pattern-waves-overlap.svg" width="100%" />
-<br />
-<h1 align="center">✨Namaskar✨</h1>
-<br />
-<h3 align="center">Just passing through, hoping to leave a gentle trace...</h3>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Sudeepp-Mishra</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background: linear-gradient(135deg, #2c3e50, #000000);
+      color: #ffffff;
+    }
 
-</div><h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="CPP" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-original.svg" alt="Java" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40"/>
-<img src="https://dl.dropboxusercontent.com/s/6e7hk06wzjp3j52/Matlab_Logo.png" alt="MatLab" width="40" height="40"/>
-</p>
+    header {
+      text-align: center;
+      padding: 80px 20px;
+      background: url('assets/five-stars-depth.svg') no-repeat center top;
+      background-size: cover;
+    }
 
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudeepp-Mishra&layout=compact&theme=transparent" alt=Sudeepp-Mishra />
+    header h1 {
+      font-size: 48px;
+      margin-bottom: 10px;
+      color: #ffffff;
+    }
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
-<div align="center">
-<a href="https://github.com/Sudeepp-Mishra">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sudeepp-Mishra&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sudeepp-Mishra&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sudeepp-Mishra&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sudeepp-Mishra&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sudeepp-Mishra&theme=2077" height="180em" />
-</div>
+    header p {
+      font-size: 20px;
+      color: #bbbbbb;
+    }
 
-<img src="https://raw.githubusercontent.com/Sudeepp-Mishra/Sudeepp-Mishra/main/assets/pattern-waves-overlap.svg" width="100%" />
+    .section {
+      max-width: 900px;
+      margin: 60px auto;
+      padding: 20px;
+      background: #1a1a1a;
+      border-radius: 12px;
+      box-shadow: 0 0 15px rgba(255,255,255,0.05);
+    }
+
+    .section h2 {
+      color: #f9f871;
+      font-size: 28px;
+      border-bottom: 2px solid #f9f871;
+      padding-bottom: 10px;
+      margin-bottom: 20px;
+    }
+
+    .skills img {
+      width: 50px;
+      height: 50px;
+      margin: 10px;
+      transition: transform 0.3s ease-in-out;
+    }
+
+    .skills img:hover {
+      transform: scale(1.1);
+    }
+
+    footer {
+      text-align: center;
+      padding: 50px;
+      background: url('assets/five-stars-depth.svg') no-repeat center bottom;
+      background-size: cover;
+    }
+
+    footer p {
+      color: #888;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>✨ Namaskar ✨</h1>
+    <p>Just passing through, hoping to leave a gentle trace...</p>
+  </header>
+
+  <div class="section">
+    <h2>Languages & Tools</h2>
+    <div class="skills">
+      <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" />
+      <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="C++" />
+      <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-original.svg" alt="Java" />
+      <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" />
+      <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" />
+      <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="MySQL" />
+    </div>
+  </div>
+
+  <footer>
+    <p>© 2025 Sudeepp Mishra | Made with ♥</p>
+  </footer>
+
+</body>
+</html>
