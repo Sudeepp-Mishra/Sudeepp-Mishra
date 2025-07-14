@@ -3,7 +3,7 @@
 <h1 align="center">✨Namaskar✨</h1>
 <hr>
 <h3 align="center">Just passing through, hoping to leave a gentle trace...</h3>
-<div> <a href="https://github.com/Sudeepp-Mishra" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+
 </div><h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
