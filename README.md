@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/Sudeepp-Mishra/Sudeepp-Mishra/main/assets/five-stars-depth.svg" width="100%" />
-<hr>
+<br />
 <h1 align="center">✨Namaskar✨</h1>
-<hr>
+<br />
 <h3 align="center">Just passing through, hoping to leave a gentle trace...</h3>
 
 </div><h3 align="left">Languages and Tools:</h3>
